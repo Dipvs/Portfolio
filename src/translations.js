@@ -34,7 +34,7 @@ export const translations = {
       native: "Nativo (C2)",
       advanced: "Avançado (C2)",
       intermediate: "Intermediário (B1)",
-      copyright: "© 2025 João Victor dos Santos Silva. Todos os direitos reservados."
+      copyright: "© 2025 Victor Silva. Todos os direitos reservados."
     },
     en: {
       role: "Full-Stack Developer",
@@ -71,6 +71,6 @@ export const translations = {
       native: "Native (C2)",
       advanced: "Advanced (C2)",
       intermediate: "Intermediate (B1)",
-      copyright: "© 2025 João Victor dos Santos Silva. All rights reserved."
+      copyright: "© 2025 Victor Silva. All rights reserved."
     }
   }
